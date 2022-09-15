@@ -7,11 +7,12 @@ Amazing Scanner For finding Vulnereblities with the Power of Nmap Deeply
 
 #Usage of this amazing tool:
 
-'''
+```
+
 git clone https://github.com/Mr-Destroyer/God_Scanner
 cd God_Scanner
 python og.py
-'''
+```
 - contributor Mohammad Zim
 - works on linux , windows , termux 
 
